@@ -1,0 +1,5 @@
+backend/api/__pycache__/
+backend/api/migrations/__pycache__/
+backend/.vscode/
+backend/env/
+backend/backend/__pycache__/
